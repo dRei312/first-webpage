@@ -8,7 +8,7 @@ To run this project, you'll need to have Node.js installed on your computer. You
 
 1. Have Node.js installed in your system.
 
-2. In CMD, run the command npm install `http-server -g`
+2. In CMD, run the command `npm install http-server -g`
 
 3. Navigate to the specific path of your file folder in CMD and run the command `http-server`
 
