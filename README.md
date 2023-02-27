@@ -28,7 +28,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 Feel free to fork this project and make your own modifications. If you would like to contribute to this project, please create a pull request and I will review your changes.
 
 ## Authors
-Amirah - amirahh99
+Amirah - https://github.com/amirahrani
 
 ## Acknowledgments
 W3Schools, YouTube - great resource for learning HTML and CSS
